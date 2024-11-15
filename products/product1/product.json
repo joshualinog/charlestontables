@@ -2,7 +2,7 @@
   "id": 1,
   "name": "Product 1",
   "description": "Description of Product 1",
-  "price": 10.00,
+  "price":2400.00,
   "currency": "USD",
   "category": "Category Name",
   "subcategory": "Subcategory Name",
