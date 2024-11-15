@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Product 1",
+  "description": "Description of Product 1",
+  "price": 10.00,
+  "currency": "USD",
+  "category": "Category Name",
+  "subcategory": "Subcategory Name",
+  "mainImage": "main.jpg",
+  "images": [
+    "image1.jpg",
+    "image2.jpg"
+  ]
+}
